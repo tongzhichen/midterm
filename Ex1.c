@@ -2,7 +2,7 @@
     int  tta(int m ,int n);
 main()
 {
-    printf("\%d t\b'\t'\n" );
+    printf("%d t\b'\t'\n" );
     int  T 
     T=the number of t 
     if{
